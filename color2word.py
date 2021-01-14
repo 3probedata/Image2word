@@ -15,7 +15,7 @@ WIDTH = args.width
 HEIGHT = args.height
 OUTPUT = args.output
 
-# 不是我說,這字符集真心不是一般的醜,看效果圖你就知道了,醜到沒朋友~
+# 使用來轉換的字元串
 #ascii_char = list("0123456789A.CDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz@#&;:-,.0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz@#&;:-,.0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz@#&;:-,.0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghi.")# 將256灰度對映到70個字元上
 ascii_char = list("0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz@#&;:-,.")
 def get_char(r, g, b, alpha=256):
