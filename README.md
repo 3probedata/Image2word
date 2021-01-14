@@ -1,5 +1,5 @@
 
-# Color to word
+# Color Image to word
 ### Search mask info output for UNET by dark picture.
 - run ```python color2word.py p1.jpg -o output.txt  --width 120 --height 100``` 
 #### Parameter:
