@@ -16,6 +16,8 @@
 - Get data block from input image.
 - Step2: Concat block of image by horizontal or vertical.
 ### Results
+- Vertical
 - ![img/test2.jpg](img/test2.JPG)
+- Horizontal
 - ![img/test3.jpg](img/test3.JPG)
 
